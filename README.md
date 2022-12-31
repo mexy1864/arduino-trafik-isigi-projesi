@@ -4,6 +4,9 @@
 
 Bu proje benim ilk Arduino projem ve Arduino'ya ilk başlangıcımı yapmak için bu projeyi yapmaya karar verdim.
 
+Projeyi yapmama katkı sağlayan Robotistan'a teşekkür ederim.
+https://maker.robotistan.com/arduino-ders-1-led-yakip-sondurme-blink/
+
 **MALZEMELER:**
 - 1 Adet Arduino Uno
 - 1 Adet Arduino Programlama Kablosu
