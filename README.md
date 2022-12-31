@@ -4,6 +4,8 @@
 
 Bu proje benim ilk Arduino projem ve Arduino'ya ilk başlangıcımı yapmak için bu projeyi yapmaya karar verdim.
 
+Projenin kodunu 8'e (Digital) bağlı olan lamba kırmızı, 7'ye (Digital) bağlı olan lamba yeşil olarak düzenledim.
+
 Projeyi yapmama katkı sağlayan Robotistan'a teşekkür ederim.
 https://maker.robotistan.com/arduino-ders-1-led-yakip-sondurme-blink/
 
